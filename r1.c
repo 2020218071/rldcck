@@ -7,6 +7,7 @@ int main()
     for(j=0;j<10;j++)
     scanf("%d",a[j]);
     printf("the max is %d",mm(a));
+    printf("gggg");
     system("pause");
     return 0;
 }
