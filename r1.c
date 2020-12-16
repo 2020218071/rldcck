@@ -8,6 +8,7 @@ int main()
     scanf("%d",a[j]);
     printf("the max is %d",mm(a));
     printf("gggg");
+    printf("hhh");
     system("pause");
     return 0;
 }
